@@ -8,6 +8,7 @@ Real screenshots of the Tie app, cropped to the one card or step each image is a
 | attentive--01-channels.png | 2026-09-30 | Onboarding page, Email + SMS card with Attentive chosen: the banner and the channel question | connect-attentive |
 | attentive--02-api-key.png | 2026-09-30 | Email + SMS card, Attentive step 2: the Tie SMS integration custom app and the empty API key field | connect-attentive |
 | attentive--03-sign-up-source.png | 2026-09-30 | Email + SMS card, Attentive step 3: Growth › Sign-up Units and the Sign-up source ID field with the app's placeholder | connect-attentive |
+| attentive--04-exit-rules.png | 2026-10-05 | Attentive's own Create exit rules screen (Lea Algazy's capture): a Tie viewed-product segment OR viewed a product since starting the journey. No customer identifier | attentive-journeys-best-practices |
 | header--postscript.png | 2026-09-30 | Tie x Postscript header, built by `visuals/partner-headers/build_partner_header.py` from the logo on postscript.io | connect-postscript |
 | postscript--02-api-key.png | 2026-09-30 | Postscript API keys page, steps 2 to 4 in order: Create Security Key Pair (2), Add a label (3), Show in the Private Key column (4). Two crops of one screenshot joined with a bone seam, so nothing account-specific is in frame | connect-postscript |
 | postscript--03-tie-events.png | 2026-09-30 | Postscript automation builder: Select an event, with the three revroll_ Tie events listed. The text in front of each event name is blurred and unreadable | connect-postscript |
