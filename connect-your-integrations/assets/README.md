@@ -15,6 +15,12 @@ Real screenshots of the Tie app, cropped to the one card or step each image is a
 | postscript--02-api-key.png | 2026-09-30 | Postscript API keys page, steps 2 to 4 in order: Create Security Key Pair (2), Add a label (3), Show in the Private Key column (4). Two crops of one screenshot joined with a bone seam, so nothing account-specific is in frame | connect-postscript |
 | postscript--03-tie-events.png | 2026-09-30 | Postscript automation builder: Select an event, with the three revroll_ Tie events listed. The text in front of each event name is blurred and unreadable | connect-postscript |
 | postscript--04-merge-tags.png | 2026-09-30 | Postscript message editor: Merge Tags, Trigger Event Properties | connect-postscript |
+| attentive--01-channels-v2.png | 2026-10-28 | attentive--01 re-cropped to provider, banner and channel question, the three channel options highlighted, framed (`visuals/captures/attentive/spec.json`) | connect-attentive |
+| attentive--02-api-key-v2.png | 2026-10-28 | attentive--02 re-cropped, the Tie SMS integration name and the API key field highlighted, framed | connect-attentive |
+| attentive--03-sign-up-source-v2.png | 2026-10-28 | attentive--03 re-cropped, the Sign-up source ID field highlighted, framed | connect-attentive |
+| postscript--02-api-key-v3.png | 2026-10-28 | postscript--02 cropped to the key table rows (old badges 3 and 4 kept; Create Security Key Pair no longer in frame), Add a label and Show highlighted, framed (`visuals/captures/postscript/spec.json`) | connect-postscript |
+| postscript--03-tie-events-v2.png | 2026-10-28 | postscript--03 cropped to the Select an event list, the three revroll_ events highlighted (Postscript's own triggers cropped out), framed | connect-postscript |
+| postscript--04-merge-tags-v2.png | 2026-10-28 | postscript--04 framed, the Merge Tags button and the Trigger Event Properties list highlighted | connect-postscript |
 
 Not captured on purpose: the card's SFTP step (its copy is out of date: it still asks for host, username and IP allowlist) and the sent state (capturing it would mean pressing Send on a live account). Attentive's own screens are not captured; the article links Attentive's guide.
 

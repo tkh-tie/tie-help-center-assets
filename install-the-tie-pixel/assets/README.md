@@ -23,5 +23,10 @@ Captured with `kb_devtools_shot.py` (scratch Chrome, undocked DevTools, CDP scre
 | shopify-custom-app--08-copy-credentials.png | 2026-10-21 | Settings → Credentials card, both copy buttons highlighted (Client ID belongs to the deleted throwaway app) | 16139668 Step 3 |
 | shopify-custom-app--09-custom-distribution.png | 2026-10-21 | Select a distribution method, Custom distribution and Select highlighted (Partners page) | 16139668 distribution |
 | shopify-custom-app--10-generate-link.png | 2026-10-21 | Custom distribution form, placeholder your-store.myshopify.com, multi-store box and Generate link highlighted | 16139668 distribution |
+| verify--01-network-200-v2.png | 2026-10-28 | verify--01 re-cropped to the filter bar and request table, filter and the 200 Status column highlighted, framed (`visuals/captures/verify/spec.json`) | verify-your-installation |
+| verify--02-network-error-v3.png | 2026-10-28 | verify--02 re-cropped, the 400 row highlighted, framed | verify-your-installation, no-data-after-install |
+| verify--03-console-syntaxerror-v2.png | 2026-10-28 | verify--03 re-cropped to the Console tab, the Uncaught SyntaxError line highlighted, framed | verify-your-installation, no-data-after-install |
+| verify--04-tie-user-attributes-v2.png | 2026-10-28 | verify--04 re-cropped, the command and its 'empty' result highlighted, framed | verify-your-installation |
+| verify--06-console-events-v2.png | 2026-10-28 | verify--06 re-cropped, the command and the three event names highlighted, framed | verify-your-installation |
 
 Captured 2026-10-21 on a throwaway "Tie Integration App" created in the Revenue Roll Dev Dashboard and installed on Design Team Sandbox (Tim's go), then uninstalled and deleted. The Dev Dashboard renders dark only. Raw captures and the crop/annotation spec live in `visuals/captures/shopify-custom-app/` (not published); re-render with `kb_annotate.py`, never edit these PNGs.
